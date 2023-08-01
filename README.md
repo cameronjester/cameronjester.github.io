@@ -1,7 +1,7 @@
 # cameronjester.github.io
 - 👋 Hi, I’m @cameronjester
-- 👀 I’m interested in sports analytics, marketing, and predictive economics
-- 🌱 I’m currently learning data wrangling/transformation and advanced data visualization 
+- 👀 I’m interested in sports analytics, predictive modeling,and making the world a better place
+- 🌱 I’m currently learning probability and calculus 2 
 - 📫 How to reach me - 
 personal email : camjester02@gmail.com
 school email : cameron.jester@simmons.edu
