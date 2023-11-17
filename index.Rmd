@@ -1,0 +1,113 @@
+---
+title: "Cameron Jester"
+image: "photo.jpeg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/cameron-jester?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BIX8Si7jTSeaiq1NORGY5Xg%3D%3D"
+  - label: Email
+    url: "mailto:camjester02@gmail.com"
+  - label: Github
+    url: "https://github.com/cameronjester"
+  - label: CV
+    url: "Cameron_M_Jester_CV.pdf"
+output:
+  postcards::solana
+---
+ 
+## Bio
+
+Cameron Jester is a senior Data Science and Analytics student at Simmons University with a minor in Statistics. She is from the New Hampshire Seacoast, now residing in Boston, Massachusetts. In school, she enjoys investigating statistical inferences using RStudio (her favorite package is 'Infer'), learning about machine learning methodologies, and discussing the cross-section between data science and social sciences. Outside of school, Cameron is passionate about reading (especially science fiction), watching sports, and perfecting the art of coffee making. 
+
+## Education
+
+Simmons University, Boston, MA
+|August 2020 - May 2024|
+
+|B.S in Data Science and Analytics
+|Minor in Statistics
+
+
+Oyster River High School, Durham, NH 
+|August 2016 - June 2020|
+
+|High School Diploma
+
+## Research Experience 
+
+[The BU-MIT-Simmons Prosody Lab](https://blogs.bu.edu/prosodylab/publications/) 
+
+**National Science Foundation REU** |September 2023 - Present
+
+-	Transcribe human speech data and create text grids using the Montreal Forced Aligner 
+
+-	Annotate speech data in accordance to advanced PoLaR guidelines to be used for statistical analysis
+
+-	Implement machine learning algorithms to determine power dynamics in human speech data using RStudio
+
+
+## Data Science/Statistics Projects
+
+[Comparative Analysis of Dimensionality Reduction Techniques: A Study on Quadratic Discriminant Analysis, Linear Discriminant Analysis, and Naive Bayesian Analysis for Improved Classification in Machine Learning]() | Coming December, 2023
+
+[Forecasting Trends of Women Employed in NAIC CODE 42343 (Service Providing: Computer and Software) Sector](female_trends.html) | February, 2023
+
+[Identifying the Drivers of Expense Inequity Between Women's and Men's Collegiate Basketball](FinalProj4.html) | May, 2022
+
+[Data Wrangling: Knocking it out of the Park](Project2.html) | April, 2022
+
+[The Patriot Way](The Patriot Way.html) | January, 2022
+
+[Predictive Factors of Mario Kart Prices](Mario Kart.html) | November, 2020
+
+
+## Data and Tech Experience
+
+**Girls Who Code**
+
+**Leadership Academy Fellow** |August 2023 - Present
+
+-	Design, execute, and analyze a survey (400+ respondents) to determine how well college students in the Boston area are aware of preparation resources available for natural disasters
+
+- Create an [interactive online tool](https://cameronjester.shinyapps.io/GiveBackProjectCMJ/) using RStudio (Shiny, Markdown, HTML) to help students create an emergency toolkit to prepare for a natural disaster 
+
+- Attend weekly fellow meetings and networking events to discuss personal leadership growth in the technology field
+
+
+
+**PTC** 
+
+**People Analytics Intern** |June 2023 - August 2023|
+
+-	Extracted information from several company databases using Python to create a robust, aggregated dataset 
+
+- Created and tested several types machine learning models such as random forests, multivariate regression, and principle component analysis to determine which avenue to best conduct analysis
+
+- Analyzed engagement metrics using RStudio to identify ways in which to increase company-wide engagement
+
+- Presented findings to key stakeholders and Executive Board Members 
+
+**Simmons University**
+
+**Teacher’s Assistant and Tutor- Statistical Design and Analysis** |August 2022 - Present|
+
+- Provide thorough and detailed feedback on areas of improvement in statistical analysis
+
+- Host weekly tutoring sessions for topics such as hypothesis testing, computational analysis, and statistical modeling  
+
+
+**BroadStreet Institute**
+
+**Data Quality Assurance Intern**	|August 2022 – November 2022|
+
+- Conducted weekly spreadsheet check-ins to ensure quality and precision of data entry 
+
+- Analyzed historical data to cross-reference current databases for any inconsistencies 
+
+
+
+```{r, echo=FALSE}
+library(cowsay)
+say('Thank you for visiting my website!', "stegosaurus")
+```
+
+
