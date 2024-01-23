@@ -16,20 +16,22 @@ output:
  
 ## Bio
 
-Cameron Jester is a senior Data Science and Analytics student at Simmons University with a minor in Statistics. She is from the New Hampshire Seacoast, now residing in Boston, Massachusetts. In school, she enjoys investigating statistical inferences using RStudio (her favorite package is 'Infer'), learning about machine learning methodologies, and discussing the cross-section between data science and social sciences. Outside of school, Cameron is passionate about reading (especially science fiction), watching sports, and perfecting the art of coffee making. 
+Cameron Jester is a senior Data Science and Analytics student at Simmons University with minors in Statistics and Mathematics. She is from the New Hampshire Seacoast, now residing in Boston, Massachusetts. In school, she enjoys investigating statistical inferences using RStudio and Python (her favorite package is 'Infer'), learning about machine learning methodologies, and discussing the cross-section between data science and social sciences. Outside of school, Cameron is passionate about reading (especially science fiction), watching sports, and perfecting the art of coffee making. 
 
 ## Education
 
+Northeastern University, Boston, MA
+|August 2024 - May 2026|
+|M.S in Data Science
+
 Simmons University, Boston, MA
 |August 2020 - May 2024|
-
 |B.S in Data Science and Analytics
-|Minor in Statistics
+|Minors in Statistics and Mathematics
 
 
 Oyster River High School, Durham, NH 
 |August 2016 - June 2020|
-
 |High School Diploma
 
 ## Research Experience 
@@ -47,11 +49,13 @@ Oyster River High School, Durham, NH
 
 ## Data Science/Statistics Projects
 
-[Comparative Analysis of Dimensionality Reduction Techniques: A Study on Quadratic Discriminant Analysis, Linear Discriminant Analysis, and Naive Bayesian Analysis for Improved Classification in Machine Learning]() | Coming December, 2023
+[Girls Who Code Leadership Academy Give Back Project: RStudio Shiny Website](https://cameronjester.shinyapps.io/GiveBackProjectCMJ/) |  December, 2023
+
+[Comparative Analysis of Dimensionality Reduction Techniques: A Study on Quadratic Discriminant Analysis, Linear Discriminant Analysis, and Naive Bayesian Analysis for Improved Classification in Machine Learning](Cameron Jester Final paper.pdf) |  December, 2023
 
 [Forecasting Trends of Women Employed in NAIC CODE 42343 (Service Providing: Computer and Software) Sector](female_trends.html) | February, 2023
 
-[Identifying the Drivers of Expense Inequity Between Women's and Men's Collegiate Basketball](FinalProj4.html) | May, 2022
+[Identifying the Drivers of Expense Inequity Between Women's and Men's Collegiate Basketball Through Machine Learning](FinalProj4.html) | May, 2022
 
 [Data Wrangling: Knocking it out of the Park](Project2.html) | April, 2022
 
@@ -64,13 +68,13 @@ Oyster River High School, Durham, NH
 
 **Girls Who Code**
 
-**Leadership Academy Fellow** |August 2023 - Present
+**Leadership Academy Fellow** |August 2023 - December 2023
 
--	Design, execute, and analyze a survey (400+ respondents) to determine how well college students in the Boston area are aware of preparation resources available for natural disasters
+-	Designed, executed, and analyzed a survey (400+ respondents) to determine how well college students in the Boston area are aware of preparation resources available for natural disasters
 
-- Create an [interactive online tool](https://cameronjester.shinyapps.io/GiveBackProjectCMJ/) using RStudio (Shiny, Markdown, HTML) to help students create an emergency toolkit to prepare for a natural disaster 
+- Created an [interactive online tool](https://cameronjester.shinyapps.io/GiveBackProjectCMJ/) using RStudio (Shiny, Markdown, HTML) to help students create an emergency toolkit to prepare for a natural disaster 
 
-- Attend weekly fellow meetings and networking events to discuss personal leadership growth in the technology field
+- Attended weekly fellow meetings and networking events to discuss personal leadership growth in the technology field
 
 
 
